@@ -1,0 +1,20 @@
+body {
+  background-color: #eff8ff
+}
+hr {
+  border: dotted #a7c5eb;
+  border-width: 5px 0 0;
+  width: 10%;
+}
+h1,h3 {
+  color: #65d6ce
+}
+.hh3:hover{
+  color : blue;
+}
+img:hover {
+  color : gold;
+}
+#ravi:hover{
+  color : gold;
+}
